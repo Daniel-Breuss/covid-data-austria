@@ -4,7 +4,7 @@ Täglich aktualisierte CSV-Datei, die aktuelle Covid19-Daten aus Österreich bei
 Basiert auf denselben Daten, die als Basis für dieses [Covid19-Dashboard](https://covid19.danielbreuss.com/) dienen.
 
 ## Datenquellen für diese Aggregation
-https://info.gesundhetsministerium.at/
+https://info.gesundheitsministerium.at/
 
 https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html
 
