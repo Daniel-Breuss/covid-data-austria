@@ -33,3 +33,12 @@ Datum,Fälle_gesamt,Fälle_Zuwachs,Burgenland,Kärnten,Niederösterreich,Oberös
 - **Testungen** =  Gesamtanzahl der bisher in Österreich durchgeführten Covid19-Tests - Stand jeweils 10:00
 - **Testungen_Zuwachs** = Differenz zum Vortag zur selben Uhrzeit
 
+
+## Wie kann ich diese Daten bei mir einbinden?
+### Variante 1: Download als Gesamtpaket
+Github bietet einen Button, der mit "Clone or Download" betitelt ist. Dort lässt sich der Inhalt dieses Repository herunterladen.
+Zip-Datei enthält Lizenzinformationen und diese Readme-Datei.
+
+### Variante 2: Direkt einbinden
+Indem man die rohe CSV-Datei aufruft, lässt sie sich in Visualisierungstools direkt einbinden oder über diesen Direktlink herunterladen:
+https://raw.githubusercontent.com/Daniel-Breuss/covid-data-austria/master/austriadata.csv
