@@ -5,8 +5,11 @@ Basiert auf denselben Daten, die als Basis für dieses [Covid19-Dashboard](https
 
 ## Datenquellen für diese Aggregation
 https://info.gesundhetsministerium.at/
+
 https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html
+
 https://www.bmi.gv.at/news.aspx?id=4A7171477A51625143334D3D
+
 
 
 ## Struktur
