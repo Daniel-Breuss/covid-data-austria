@@ -34,7 +34,7 @@ Datum,Fälle_gesamt,Fälle_Zuwachs,Burgenland,Kärnten,Niederösterreich,Oberös
 - **Testungen_Zuwachs** = Differenz zum Vortag zur selben Uhrzeit
 
 
-## Wie kann ich diese Daten bei mir einbinden?
+## Wie kann ich diese Daten nutzen?
 ### Variante 1: Download als Gesamtpaket
 Github bietet einen Button, der mit "Clone or Download" betitelt ist. Dort lässt sich der Inhalt dieses Repository herunterladen.
 Zip-Datei enthält Lizenzinformationen und diese Readme-Datei.
