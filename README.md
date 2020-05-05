@@ -1,5 +1,5 @@
 # covid-data-austria
-Täglich aktualisierte CSV-Datei, die aktuelle Covid19-Daten aus Österreich beinhaltet.
+Zwei Dateien, einmal im CSV- und einmal im JSON-Format, die tagesaktuelle Covid19-Daten aus Österreich beinhalten.
 
 Basiert auf denselben Daten, die als Basis für dieses [Covid19-Dashboard](https://covid19.danielbreuss.com/) dienen.
 
@@ -12,7 +12,7 @@ https://www.bmi.gv.at/news.aspx?id=4A7171477A51625143334D3D
 
 
 
-## Struktur
+## Struktur der Spalten / Objekte
 Datum,Fälle_gesamt,Fälle_Zuwachs,Tote_v1,Tote_v1_Zuwachs,Tote_v2,Tote_v2_Zuwachs,Genesene,Genesene_Zuwachs,Hospitalisiert,Intensivstation,IBett_frei,IBett_Kapazität,Testungen,Testungen_Zuwachs,Burgenland,Burgenland_Tote,Burgenland_Genesene,Burgenland_Spital,Burgenland_Intensiv,Burgenland_Tests,Kärnten,Kärnten_Tote,Kärnten_Genesene,Kärnten_Spital,Kärnten_Intensiv,Kärnten_Tests,Niederösterreich,Niederösterreich_Tote,Niederösterreich_Genesene,Niederösterreich_Spital,Niederösterreich_Intensiv,Niederösterreich_Tests,Oberösterreich,Oberösterreich_Tote,Oberösterreich_Genesene,Oberösterreich_Spital,Oberösterreich_Intensiv,Oberösterreich_Tests,Salzburg,Salzburg_Tote,Salzburg_Genesene,Salzburg_Spital,Salzburg_Intensiv,Salzburg_Tests,Steiermark,Steiermark_Tote,Steiermark_Genesene,Steiermark_Spital,Steiermark_Intensiv,Steiermark_Tests,Tirol,Tirol_Tote,Tirol_Genesene,Tirol_Spital,Tirol_Intensiv,Tirol_Tests,Vorarlberg,Vorarlberg_Tote,Vorarlberg_Genesene,Vorarlberg_Spital,Vorarlberg_Intensiv,Vorarlberg_Tests,Wien,Wien_Tote,Wien_Genesene,Wien_Spital,Wien_Intensiv,Wien_Tests
 
 ## Erläuterungen
@@ -44,5 +44,6 @@ Github bietet einen Button, der mit "Clone or Download" betitelt ist. Dort läss
 Zip-Datei enthält Lizenzinformationen und diese Readme-Datei.
 
 ### Variante 2: Direkt einbinden
-Indem man die rohe CSV-Datei aufruft, lässt sie sich in Visualisierungstools direkt einbinden oder über diesen Direktlink herunterladen:
+Indem man die rohe CSV- oder JSON-Datei aufruft, lässt sie sich in Visualisierungstools direkt einbinden oder über diesen Direktlink herunterladen:
 https://raw.githubusercontent.com/Daniel-Breuss/covid-data-austria/master/austriadata.csv
+https://raw.githubusercontent.com/Daniel-Breuss/covid-data-austria/master/austriadata.json
