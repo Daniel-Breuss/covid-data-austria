@@ -1,8 +1,8 @@
 [
     {
         "Datum": "2020-05-29",
-        "Fälle_gesamt": 15911,
-        "Fälle_Zuwachs": "-630",
+        "Fälle_gesamt": 16564,
+        "Fälle_Zuwachs": 23,
         "Tote_v1": 668,
         "Tote_v1_Zuwachs": 0,
         "Tote_v2": 638,
@@ -33,7 +33,7 @@
         "Niederösterreich_Spital": 26,
         "Niederösterreich_Intensiv": 11,
         "Niederösterreich_Tests": 66422,
-        "Oberösterreich": 1641,
+        "Oberösterreich": 2294,
         "Oberösterreich_Tote": 60,
         "Oberösterreich_Genesene": 2212,
         "Oberösterreich_Spital": 7,
