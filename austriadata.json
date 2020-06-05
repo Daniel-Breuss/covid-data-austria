@@ -1,8 +1,8 @@
 [
     {
         "Datum": "2020-06-05",
-        "Fälle_gesamt": 16518,
-        "Fälle_Zuwachs": "-187",
+        "Fälle_gesamt": 16744,
+        "Fälle_Zuwachs": 39,
         "Tote_v1": 672,
         "Tote_v1_Zuwachs": 2,
         "Tote_v2": 645,
@@ -33,7 +33,7 @@
         "Niederösterreich_Spital": 18,
         "Niederösterreich_Intensiv": 6,
         "Niederösterreich_Tests": 76964,
-        "Oberösterreich": 2078,
+        "Oberösterreich": 2304,
         "Oberösterreich_Tote": 61,
         "Oberösterreich_Genesene": 2226,
         "Oberösterreich_Spital": 2,
